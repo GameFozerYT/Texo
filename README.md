@@ -1,1 +1,2 @@
-# Texo
+# Probot ✨
+Epic Discord Bot
